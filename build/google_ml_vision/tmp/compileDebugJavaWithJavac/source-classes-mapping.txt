@@ -1,0 +1,24 @@
+com/brianmtully/flutter/plugins/googlemlvision/GoogleMlVisionPlugin.java
+ com.brianmtully.flutter.plugins.googlemlvision.GoogleMlVisionPlugin
+com/brianmtully/flutter/plugins/googlemlvision/BuildConfig.java
+ com.brianmtully.flutter.plugins.googlemlvision.BuildConfig
+com/brianmtully/flutter/plugins/googlemlvision/GMLKBarcodeDetector.java
+ com.brianmtully.flutter.plugins.googlemlvision.GMLKBarcodeDetector
+ com.brianmtully.flutter.plugins.googlemlvision.GMLKBarcodeDetector$1
+ com.brianmtully.flutter.plugins.googlemlvision.GMLKBarcodeDetector$2
+com/brianmtully/flutter/plugins/googlemlvision/GMLKTextRecognizer.java
+ com.brianmtully.flutter.plugins.googlemlvision.GMLKTextRecognizer
+ com.brianmtully.flutter.plugins.googlemlvision.GMLKTextRecognizer$1
+ com.brianmtully.flutter.plugins.googlemlvision.GMLKTextRecognizer$2
+com/brianmtully/flutter/plugins/googlemlvision/GMLKFaceDetector.java
+ com.brianmtully.flutter.plugins.googlemlvision.GMLKFaceDetector
+ com.brianmtully.flutter.plugins.googlemlvision.GMLKFaceDetector$1
+ com.brianmtully.flutter.plugins.googlemlvision.GMLKFaceDetector$2
+com/brianmtully/flutter/plugins/googlemlvision/Detector.java
+ com.brianmtully.flutter.plugins.googlemlvision.Detector
+com/brianmtully/flutter/plugins/googlemlvision/GMLKImageLabeler.java
+ com.brianmtully.flutter.plugins.googlemlvision.GMLKImageLabeler
+ com.brianmtully.flutter.plugins.googlemlvision.GMLKImageLabeler$1
+ com.brianmtully.flutter.plugins.googlemlvision.GMLKImageLabeler$2
+com/brianmtully/flutter/plugins/googlemlvision/GoogleMlVisionHandler.java
+ com.brianmtully.flutter.plugins.googlemlvision.MlVisionHandler

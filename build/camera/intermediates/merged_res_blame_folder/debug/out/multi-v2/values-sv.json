@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/prf-05/Documentos/PROJETOS/facial tentativas/APLICATIVO FACIAL/Modular_face_detect_firebase-improvement-1/build/camera/intermediates/res/merged/debug/values-sv/values-sv.xml",
+            "map": [
+                {
+                    "source": "/home/prf-05/.gradle/caches/transforms-2/files-2.1/14b93615368c2249f1830e26ca064ab5/core-1.6.0/res/values-sv/values-sv.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/prf-05/Documentos/PROJETOS/facial tentativas/APLICATIVO FACIAL/Modular_face_detect_firebase-improvement-1/build/camera/intermediates/incremental/mergeDebugResources/merged.dir/values-sv/values-sv.xml",
+            "map": [
+                {
+                    "source": "/home/prf-05/.gradle/caches/transforms-2/files-2.1/14b93615368c2249f1830e26ca064ab5/core-1.6.0/res/values-sv/values-sv.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

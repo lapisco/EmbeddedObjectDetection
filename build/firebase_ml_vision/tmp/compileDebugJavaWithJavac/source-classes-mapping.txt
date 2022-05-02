@@ -1,0 +1,30 @@
+io/flutter/plugins/firebasemlvision/FirebaseMlVisionPlugin.java
+ io.flutter.plugins.firebasemlvision.FirebaseMlVisionPlugin
+io/flutter/plugins/firebasemlvision/FirebaseMlVisionHandler.java
+ io.flutter.plugins.firebasemlvision.FirebaseMlVisionHandler
+io/flutter/plugins/firebasemlvision/FaceDetector.java
+ io.flutter.plugins.firebasemlvision.FaceDetector
+ io.flutter.plugins.firebasemlvision.FaceDetector$1
+ io.flutter.plugins.firebasemlvision.FaceDetector$2
+io/flutter/plugins/firebasemlvision/BarcodeDetector.java
+ io.flutter.plugins.firebasemlvision.BarcodeDetector
+ io.flutter.plugins.firebasemlvision.BarcodeDetector$1
+ io.flutter.plugins.firebasemlvision.BarcodeDetector$2
+io/flutter/plugins/firebasemlvision/ImageLabeler.java
+ io.flutter.plugins.firebasemlvision.ImageLabeler
+ io.flutter.plugins.firebasemlvision.ImageLabeler$1
+ io.flutter.plugins.firebasemlvision.ImageLabeler$2
+io/flutter/plugins/firebasemlvision/TextRecognizer.java
+ io.flutter.plugins.firebasemlvision.TextRecognizer
+ io.flutter.plugins.firebasemlvision.TextRecognizer$1
+ io.flutter.plugins.firebasemlvision.TextRecognizer$2
+io/flutter/plugins/firebasemlvision/DocumentTextRecognizer.java
+ io.flutter.plugins.firebasemlvision.DocumentTextRecognizer
+ io.flutter.plugins.firebasemlvision.DocumentTextRecognizer$1
+ io.flutter.plugins.firebasemlvision.DocumentTextRecognizer$2
+io/flutter/plugins/firebasemlvision/BuildConfig.java
+ io.flutter.plugins.firebasemlvision.BuildConfig
+io/flutter/plugins/firebasemlvision/Detector.java
+ io.flutter.plugins.firebasemlvision.Detector
+io/flutter/plugins/firebasemlvision/FlutterFirebaseAppRegistrar.java
+ io.flutter.plugins.firebasemlvision.FlutterFirebaseAppRegistrar
