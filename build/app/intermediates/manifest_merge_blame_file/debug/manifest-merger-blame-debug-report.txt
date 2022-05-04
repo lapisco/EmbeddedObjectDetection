@@ -12,29 +12,29 @@
 12         to allow setting breakpoints, to provide hot reload, etc.
 13    -->
 14    <uses-permission android:name="android.permission.INTERNET" />
-14-->/home/prf-05/Documentos/PROJETOS/facial tentativas/APLICATIVO FACIAL/Modular_face_detect_firebase-improvement-1/android/app/src/debug/AndroidManifest.xml:6:5-66
-14-->/home/prf-05/Documentos/PROJETOS/facial tentativas/APLICATIVO FACIAL/Modular_face_detect_firebase-improvement-1/android/app/src/debug/AndroidManifest.xml:6:22-64
+14-->/home/adriell/Documentos/PROJETOS/EmbeddedObjectDetection/android/app/src/debug/AndroidManifest.xml:6:5-66
+14-->/home/adriell/Documentos/PROJETOS/EmbeddedObjectDetection/android/app/src/debug/AndroidManifest.xml:6:22-64
 15    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-15-->/home/prf-05/Documentos/PROJETOS/facial tentativas/APLICATIVO FACIAL/Modular_face_detect_firebase-improvement-1/android/app/src/main/AndroidManifest.xml:4:5-80
-15-->/home/prf-05/Documentos/PROJETOS/facial tentativas/APLICATIVO FACIAL/Modular_face_detect_firebase-improvement-1/android/app/src/main/AndroidManifest.xml:4:22-77
+15-->/home/adriell/Documentos/PROJETOS/EmbeddedObjectDetection/android/app/src/main/AndroidManifest.xml:4:5-80
+15-->/home/adriell/Documentos/PROJETOS/EmbeddedObjectDetection/android/app/src/main/AndroidManifest.xml:4:22-77
 16    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-16-->/home/prf-05/Documentos/PROJETOS/facial tentativas/APLICATIVO FACIAL/Modular_face_detect_firebase-improvement-1/android/app/src/main/AndroidManifest.xml:5:5-80
-16-->/home/prf-05/Documentos/PROJETOS/facial tentativas/APLICATIVO FACIAL/Modular_face_detect_firebase-improvement-1/android/app/src/main/AndroidManifest.xml:5:22-78
+16-->/home/adriell/Documentos/PROJETOS/EmbeddedObjectDetection/android/app/src/main/AndroidManifest.xml:5:5-80
+16-->/home/adriell/Documentos/PROJETOS/EmbeddedObjectDetection/android/app/src/main/AndroidManifest.xml:5:22-78
 17    <uses-permission android:name="android.permission.RECORD_AUDIO" />
-17-->[:tflite_flutter_helper] /home/prf-05/Documentos/PROJETOS/facial tentativas/APLICATIVO FACIAL/Modular_face_detect_firebase-improvement-1/build/tflite_flutter_helper/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-71
-17-->[:tflite_flutter_helper] /home/prf-05/Documentos/PROJETOS/facial tentativas/APLICATIVO FACIAL/Modular_face_detect_firebase-improvement-1/build/tflite_flutter_helper/intermediates/library_manifest/debug/AndroidManifest.xml:7:22-68
+17-->[:tflite_flutter_helper] /home/adriell/Documentos/PROJETOS/EmbeddedObjectDetection/build/tflite_flutter_helper/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-71
+17-->[:tflite_flutter_helper] /home/adriell/Documentos/PROJETOS/EmbeddedObjectDetection/build/tflite_flutter_helper/intermediates/library_manifest/debug/AndroidManifest.xml:7:22-68
 18    <uses-permission android:name="android.permission.CAMERA" /> <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
-18-->[:camera] /home/prf-05/Documentos/PROJETOS/facial tentativas/APLICATIVO FACIAL/Modular_face_detect_firebase-improvement-1/build/camera/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-65
-18-->[:camera] /home/prf-05/Documentos/PROJETOS/facial tentativas/APLICATIVO FACIAL/Modular_face_detect_firebase-improvement-1/build/camera/intermediates/library_manifest/debug/AndroidManifest.xml:9:22-62
+18-->[:camera] /home/adriell/Documentos/PROJETOS/EmbeddedObjectDetection/build/camera/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-65
+18-->[:camera] /home/adriell/Documentos/PROJETOS/EmbeddedObjectDetection/build/camera/intermediates/library_manifest/debug/AndroidManifest.xml:9:22-62
 19    <!-- <uses-sdk android:minSdkVersion="14"/> -->
 20    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-20-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /home/prf-05/.gradle/caches/transforms-2/files-2.1/1f00e0dfee3a11aa3f6f3b29dbcccafd/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:25:5-79
-20-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /home/prf-05/.gradle/caches/transforms-2/files-2.1/1f00e0dfee3a11aa3f6f3b29dbcccafd/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:25:22-76
+20-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /home/adriell/.gradle/caches/transforms-2/files-2.1/1f00e0dfee3a11aa3f6f3b29dbcccafd/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:25:5-79
+20-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /home/adriell/.gradle/caches/transforms-2/files-2.1/1f00e0dfee3a11aa3f6f3b29dbcccafd/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:25:22-76
 21
 22    <application
 23        android:name="io.flutter.app.FlutterMultiDexApplication"
 24        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-24-->[androidx.core:core:1.6.0] /home/prf-05/.gradle/caches/transforms-2/files-2.1/14b93615368c2249f1830e26ca064ab5/core-1.6.0/AndroidManifest.xml:24:18-86
+24-->[androidx.core:core:1.6.0] /home/adriell/.gradle/caches/transforms-2/files-2.1/14b93615368c2249f1830e26ca064ab5/core-1.6.0/AndroidManifest.xml:24:18-86
 25        android:debuggable="true"
 26        android:icon="@mipmap/ic_launcher"
 27        android:label="face_detect_firebase" >
@@ -75,162 +75,162 @@
 62            android:value="2" />
 63
 64        <provider
-64-->[:image_picker] /home/prf-05/Documentos/PROJETOS/facial tentativas/APLICATIVO FACIAL/Modular_face_detect_firebase-improvement-1/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-16:20
+64-->[:image_picker] /home/adriell/Documentos/PROJETOS/EmbeddedObjectDetection/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-16:20
 65            android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
-65-->[:image_picker] /home/prf-05/Documentos/PROJETOS/facial tentativas/APLICATIVO FACIAL/Modular_face_detect_firebase-improvement-1/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-82
+65-->[:image_picker] /home/adriell/Documentos/PROJETOS/EmbeddedObjectDetection/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-82
 66            android:authorities="com.example.loja_virtual.flutter.image_provider"
-66-->[:image_picker] /home/prf-05/Documentos/PROJETOS/facial tentativas/APLICATIVO FACIAL/Modular_face_detect_firebase-improvement-1/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-74
+66-->[:image_picker] /home/adriell/Documentos/PROJETOS/EmbeddedObjectDetection/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-74
 67            android:exported="false"
-67-->[:image_picker] /home/prf-05/Documentos/PROJETOS/facial tentativas/APLICATIVO FACIAL/Modular_face_detect_firebase-improvement-1/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-37
+67-->[:image_picker] /home/adriell/Documentos/PROJETOS/EmbeddedObjectDetection/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-37
 68            android:grantUriPermissions="true" >
-68-->[:image_picker] /home/prf-05/Documentos/PROJETOS/facial tentativas/APLICATIVO FACIAL/Modular_face_detect_firebase-improvement-1/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-47
+68-->[:image_picker] /home/adriell/Documentos/PROJETOS/EmbeddedObjectDetection/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-47
 69            <meta-data
-69-->[:image_picker] /home/prf-05/Documentos/PROJETOS/facial tentativas/APLICATIVO FACIAL/Modular_face_detect_firebase-improvement-1/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-15:75
+69-->[:image_picker] /home/adriell/Documentos/PROJETOS/EmbeddedObjectDetection/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-15:75
 70                android:name="android.support.FILE_PROVIDER_PATHS"
-70-->[:image_picker] /home/prf-05/Documentos/PROJETOS/facial tentativas/APLICATIVO FACIAL/Modular_face_detect_firebase-improvement-1/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:14:17-67
+70-->[:image_picker] /home/adriell/Documentos/PROJETOS/EmbeddedObjectDetection/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:14:17-67
 71                android:resource="@xml/flutter_image_picker_file_paths" />
-71-->[:image_picker] /home/prf-05/Documentos/PROJETOS/facial tentativas/APLICATIVO FACIAL/Modular_face_detect_firebase-improvement-1/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:15:17-72
+71-->[:image_picker] /home/adriell/Documentos/PROJETOS/EmbeddedObjectDetection/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:15:17-72
 72        </provider>
 73
 74        <uses-library
-74-->[androidx.window:window:1.0.0-beta04] /home/prf-05/.gradle/caches/transforms-2/files-2.1/cea45e25bbe77c9713c39e234ccfd7bd/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+74-->[androidx.window:window:1.0.0-beta04] /home/adriell/.gradle/caches/transforms-2/files-2.1/cea45e25bbe77c9713c39e234ccfd7bd/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
 75            android:name="androidx.window.extensions"
-75-->[androidx.window:window:1.0.0-beta04] /home/prf-05/.gradle/caches/transforms-2/files-2.1/cea45e25bbe77c9713c39e234ccfd7bd/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+75-->[androidx.window:window:1.0.0-beta04] /home/adriell/.gradle/caches/transforms-2/files-2.1/cea45e25bbe77c9713c39e234ccfd7bd/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
 76            android:required="false" />
-76-->[androidx.window:window:1.0.0-beta04] /home/prf-05/.gradle/caches/transforms-2/files-2.1/cea45e25bbe77c9713c39e234ccfd7bd/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+76-->[androidx.window:window:1.0.0-beta04] /home/adriell/.gradle/caches/transforms-2/files-2.1/cea45e25bbe77c9713c39e234ccfd7bd/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
 77        <uses-library
-77-->[androidx.window:window:1.0.0-beta04] /home/prf-05/.gradle/caches/transforms-2/files-2.1/cea45e25bbe77c9713c39e234ccfd7bd/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+77-->[androidx.window:window:1.0.0-beta04] /home/adriell/.gradle/caches/transforms-2/files-2.1/cea45e25bbe77c9713c39e234ccfd7bd/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
 78            android:name="androidx.window.sidecar"
-78-->[androidx.window:window:1.0.0-beta04] /home/prf-05/.gradle/caches/transforms-2/files-2.1/cea45e25bbe77c9713c39e234ccfd7bd/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+78-->[androidx.window:window:1.0.0-beta04] /home/adriell/.gradle/caches/transforms-2/files-2.1/cea45e25bbe77c9713c39e234ccfd7bd/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
 79            android:required="false" />
-79-->[androidx.window:window:1.0.0-beta04] /home/prf-05/.gradle/caches/transforms-2/files-2.1/cea45e25bbe77c9713c39e234ccfd7bd/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+79-->[androidx.window:window:1.0.0-beta04] /home/adriell/.gradle/caches/transforms-2/files-2.1/cea45e25bbe77c9713c39e234ccfd7bd/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
 80
 81        <service
-81-->[com.google.mlkit:image-labeling:17.0.5] /home/prf-05/.gradle/caches/transforms-2/files-2.1/8dc6f9edc598eab96d680e175d5772a6/jetified-image-labeling-17.0.5/AndroidManifest.xml:8:9-14:19
+81-->[com.google.mlkit:image-labeling:17.0.5] /home/adriell/.gradle/caches/transforms-2/files-2.1/8dc6f9edc598eab96d680e175d5772a6/jetified-image-labeling-17.0.5/AndroidManifest.xml:8:9-14:19
 82            android:name="com.google.mlkit.common.internal.MlKitComponentDiscoveryService"
-82-->[com.google.mlkit:image-labeling:17.0.5] /home/prf-05/.gradle/caches/transforms-2/files-2.1/8dc6f9edc598eab96d680e175d5772a6/jetified-image-labeling-17.0.5/AndroidManifest.xml:9:13-91
+82-->[com.google.mlkit:image-labeling:17.0.5] /home/adriell/.gradle/caches/transforms-2/files-2.1/8dc6f9edc598eab96d680e175d5772a6/jetified-image-labeling-17.0.5/AndroidManifest.xml:9:13-91
 83            android:directBootAware="true"
-83-->[com.google.mlkit:common:17.2.0] /home/prf-05/.gradle/caches/transforms-2/files-2.1/711d3bc503cc6e63d0921dac4cca3c30/jetified-common-17.2.0/AndroidManifest.xml:17:13-43
+83-->[com.google.mlkit:common:17.2.0] /home/adriell/.gradle/caches/transforms-2/files-2.1/711d3bc503cc6e63d0921dac4cca3c30/jetified-common-17.2.0/AndroidManifest.xml:17:13-43
 84            android:exported="false" >
-84-->[com.google.mlkit:image-labeling:17.0.5] /home/prf-05/.gradle/caches/transforms-2/files-2.1/8dc6f9edc598eab96d680e175d5772a6/jetified-image-labeling-17.0.5/AndroidManifest.xml:10:13-37
+84-->[com.google.mlkit:image-labeling:17.0.5] /home/adriell/.gradle/caches/transforms-2/files-2.1/8dc6f9edc598eab96d680e175d5772a6/jetified-image-labeling-17.0.5/AndroidManifest.xml:10:13-37
 85            <meta-data
-85-->[com.google.mlkit:image-labeling:17.0.5] /home/prf-05/.gradle/caches/transforms-2/files-2.1/8dc6f9edc598eab96d680e175d5772a6/jetified-image-labeling-17.0.5/AndroidManifest.xml:11:13-13:85
+85-->[com.google.mlkit:image-labeling:17.0.5] /home/adriell/.gradle/caches/transforms-2/files-2.1/8dc6f9edc598eab96d680e175d5772a6/jetified-image-labeling-17.0.5/AndroidManifest.xml:11:13-13:85
 86                android:name="com.google.firebase.components:com.google.mlkit.vision.label.defaults.internal.BundledLabelRegistrar"
-86-->[com.google.mlkit:image-labeling:17.0.5] /home/prf-05/.gradle/caches/transforms-2/files-2.1/8dc6f9edc598eab96d680e175d5772a6/jetified-image-labeling-17.0.5/AndroidManifest.xml:12:17-132
+86-->[com.google.mlkit:image-labeling:17.0.5] /home/adriell/.gradle/caches/transforms-2/files-2.1/8dc6f9edc598eab96d680e175d5772a6/jetified-image-labeling-17.0.5/AndroidManifest.xml:12:17-132
 87                android:value="com.google.firebase.components.ComponentRegistrar" />
-87-->[com.google.mlkit:image-labeling:17.0.5] /home/prf-05/.gradle/caches/transforms-2/files-2.1/8dc6f9edc598eab96d680e175d5772a6/jetified-image-labeling-17.0.5/AndroidManifest.xml:13:17-82
+87-->[com.google.mlkit:image-labeling:17.0.5] /home/adriell/.gradle/caches/transforms-2/files-2.1/8dc6f9edc598eab96d680e175d5772a6/jetified-image-labeling-17.0.5/AndroidManifest.xml:13:17-82
 88            <meta-data
-88-->[com.google.mlkit:object-detection:16.2.6] /home/prf-05/.gradle/caches/transforms-2/files-2.1/6f7fa8ca87dbd9cec6fbdcbed6748f83/jetified-object-detection-16.2.6/AndroidManifest.xml:11:13-13:85
+88-->[com.google.mlkit:object-detection:16.2.6] /home/adriell/.gradle/caches/transforms-2/files-2.1/6f7fa8ca87dbd9cec6fbdcbed6748f83/jetified-object-detection-16.2.6/AndroidManifest.xml:11:13-13:85
 89                android:name="com.google.firebase.components:com.google.mlkit.vision.objects.defaults.internal.DefaultObjectsRegistrar"
-89-->[com.google.mlkit:object-detection:16.2.6] /home/prf-05/.gradle/caches/transforms-2/files-2.1/6f7fa8ca87dbd9cec6fbdcbed6748f83/jetified-object-detection-16.2.6/AndroidManifest.xml:12:17-136
+89-->[com.google.mlkit:object-detection:16.2.6] /home/adriell/.gradle/caches/transforms-2/files-2.1/6f7fa8ca87dbd9cec6fbdcbed6748f83/jetified-object-detection-16.2.6/AndroidManifest.xml:12:17-136
 90                android:value="com.google.firebase.components.ComponentRegistrar" />
-90-->[com.google.mlkit:object-detection:16.2.6] /home/prf-05/.gradle/caches/transforms-2/files-2.1/6f7fa8ca87dbd9cec6fbdcbed6748f83/jetified-object-detection-16.2.6/AndroidManifest.xml:13:17-82
+90-->[com.google.mlkit:object-detection:16.2.6] /home/adriell/.gradle/caches/transforms-2/files-2.1/6f7fa8ca87dbd9cec6fbdcbed6748f83/jetified-object-detection-16.2.6/AndroidManifest.xml:13:17-82
 91            <meta-data
-91-->[com.google.android.gms:play-services-mlkit-text-recognition:16.3.0] /home/prf-05/.gradle/caches/transforms-2/files-2.1/0ba9f1c6b63ad35475557f471702d311/jetified-play-services-mlkit-text-recognition-16.3.0/AndroidManifest.xml:12:13-14:85
+91-->[com.google.android.gms:play-services-mlkit-text-recognition:16.3.0] /home/adriell/.gradle/caches/transforms-2/files-2.1/0ba9f1c6b63ad35475557f471702d311/jetified-play-services-mlkit-text-recognition-16.3.0/AndroidManifest.xml:12:13-14:85
 92                android:name="com.google.firebase.components:com.google.mlkit.vision.text.internal.TextRegistrar"
-92-->[com.google.android.gms:play-services-mlkit-text-recognition:16.3.0] /home/prf-05/.gradle/caches/transforms-2/files-2.1/0ba9f1c6b63ad35475557f471702d311/jetified-play-services-mlkit-text-recognition-16.3.0/AndroidManifest.xml:13:17-114
+92-->[com.google.android.gms:play-services-mlkit-text-recognition:16.3.0] /home/adriell/.gradle/caches/transforms-2/files-2.1/0ba9f1c6b63ad35475557f471702d311/jetified-play-services-mlkit-text-recognition-16.3.0/AndroidManifest.xml:13:17-114
 93                android:value="com.google.firebase.components.ComponentRegistrar" />
-93-->[com.google.android.gms:play-services-mlkit-text-recognition:16.3.0] /home/prf-05/.gradle/caches/transforms-2/files-2.1/0ba9f1c6b63ad35475557f471702d311/jetified-play-services-mlkit-text-recognition-16.3.0/AndroidManifest.xml:14:17-82
+93-->[com.google.android.gms:play-services-mlkit-text-recognition:16.3.0] /home/adriell/.gradle/caches/transforms-2/files-2.1/0ba9f1c6b63ad35475557f471702d311/jetified-play-services-mlkit-text-recognition-16.3.0/AndroidManifest.xml:14:17-82
 94            <meta-data
-94-->[com.google.android.gms:play-services-mlkit-face-detection:16.2.0] /home/prf-05/.gradle/caches/transforms-2/files-2.1/5508dd425cf0d270babbcdd410b8c26e/jetified-play-services-mlkit-face-detection-16.2.0/AndroidManifest.xml:12:13-14:85
+94-->[com.google.android.gms:play-services-mlkit-face-detection:16.2.0] /home/adriell/.gradle/caches/transforms-2/files-2.1/5508dd425cf0d270babbcdd410b8c26e/jetified-play-services-mlkit-face-detection-16.2.0/AndroidManifest.xml:12:13-14:85
 95                android:name="com.google.firebase.components:com.google.mlkit.vision.face.internal.FaceRegistrar"
-95-->[com.google.android.gms:play-services-mlkit-face-detection:16.2.0] /home/prf-05/.gradle/caches/transforms-2/files-2.1/5508dd425cf0d270babbcdd410b8c26e/jetified-play-services-mlkit-face-detection-16.2.0/AndroidManifest.xml:13:17-114
+95-->[com.google.android.gms:play-services-mlkit-face-detection:16.2.0] /home/adriell/.gradle/caches/transforms-2/files-2.1/5508dd425cf0d270babbcdd410b8c26e/jetified-play-services-mlkit-face-detection-16.2.0/AndroidManifest.xml:13:17-114
 96                android:value="com.google.firebase.components.ComponentRegistrar" />
-96-->[com.google.android.gms:play-services-mlkit-face-detection:16.2.0] /home/prf-05/.gradle/caches/transforms-2/files-2.1/5508dd425cf0d270babbcdd410b8c26e/jetified-play-services-mlkit-face-detection-16.2.0/AndroidManifest.xml:14:17-82
+96-->[com.google.android.gms:play-services-mlkit-face-detection:16.2.0] /home/adriell/.gradle/caches/transforms-2/files-2.1/5508dd425cf0d270babbcdd410b8c26e/jetified-play-services-mlkit-face-detection-16.2.0/AndroidManifest.xml:14:17-82
 97            <meta-data
-97-->[com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] /home/prf-05/.gradle/caches/transforms-2/files-2.1/2ad1969128174059815bd5a58d8a7374/jetified-play-services-mlkit-barcode-scanning-16.2.0/AndroidManifest.xml:12:13-14:85
+97-->[com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] /home/adriell/.gradle/caches/transforms-2/files-2.1/2ad1969128174059815bd5a58d8a7374/jetified-play-services-mlkit-barcode-scanning-16.2.0/AndroidManifest.xml:12:13-14:85
 98                android:name="com.google.firebase.components:com.google.mlkit.vision.barcode.internal.BarcodeRegistrar"
-98-->[com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] /home/prf-05/.gradle/caches/transforms-2/files-2.1/2ad1969128174059815bd5a58d8a7374/jetified-play-services-mlkit-barcode-scanning-16.2.0/AndroidManifest.xml:13:17-120
+98-->[com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] /home/adriell/.gradle/caches/transforms-2/files-2.1/2ad1969128174059815bd5a58d8a7374/jetified-play-services-mlkit-barcode-scanning-16.2.0/AndroidManifest.xml:13:17-120
 99                android:value="com.google.firebase.components.ComponentRegistrar" />
-99-->[com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] /home/prf-05/.gradle/caches/transforms-2/files-2.1/2ad1969128174059815bd5a58d8a7374/jetified-play-services-mlkit-barcode-scanning-16.2.0/AndroidManifest.xml:14:17-82
+99-->[com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] /home/adriell/.gradle/caches/transforms-2/files-2.1/2ad1969128174059815bd5a58d8a7374/jetified-play-services-mlkit-barcode-scanning-16.2.0/AndroidManifest.xml:14:17-82
 100            <meta-data
-100-->[com.google.mlkit:vision-internal-vkp:18.1.1] /home/prf-05/.gradle/caches/transforms-2/files-2.1/3310608242efa890907416e4882826bb/jetified-vision-internal-vkp-18.1.1/AndroidManifest.xml:11:13-13:85
+100-->[com.google.mlkit:vision-internal-vkp:18.1.1] /home/adriell/.gradle/caches/transforms-2/files-2.1/3310608242efa890907416e4882826bb/jetified-vision-internal-vkp-18.1.1/AndroidManifest.xml:11:13-13:85
 101                android:name="com.google.firebase.components:com.google.mlkit.vision.vkp.VkpRegistrar"
-101-->[com.google.mlkit:vision-internal-vkp:18.1.1] /home/prf-05/.gradle/caches/transforms-2/files-2.1/3310608242efa890907416e4882826bb/jetified-vision-internal-vkp-18.1.1/AndroidManifest.xml:12:17-103
+101-->[com.google.mlkit:vision-internal-vkp:18.1.1] /home/adriell/.gradle/caches/transforms-2/files-2.1/3310608242efa890907416e4882826bb/jetified-vision-internal-vkp-18.1.1/AndroidManifest.xml:12:17-103
 102                android:value="com.google.firebase.components.ComponentRegistrar" />
-102-->[com.google.mlkit:vision-internal-vkp:18.1.1] /home/prf-05/.gradle/caches/transforms-2/files-2.1/3310608242efa890907416e4882826bb/jetified-vision-internal-vkp-18.1.1/AndroidManifest.xml:13:17-82
+102-->[com.google.mlkit:vision-internal-vkp:18.1.1] /home/adriell/.gradle/caches/transforms-2/files-2.1/3310608242efa890907416e4882826bb/jetified-vision-internal-vkp-18.1.1/AndroidManifest.xml:13:17-82
 103            <meta-data
-103-->[com.google.mlkit:vision-common:16.5.0] /home/prf-05/.gradle/caches/transforms-2/files-2.1/308f873d2867f6686c28a2b8494be24b/jetified-vision-common-16.5.0/AndroidManifest.xml:12:13-14:85
+103-->[com.google.mlkit:vision-common:16.5.0] /home/adriell/.gradle/caches/transforms-2/files-2.1/308f873d2867f6686c28a2b8494be24b/jetified-vision-common-16.5.0/AndroidManifest.xml:12:13-14:85
 104                android:name="com.google.firebase.components:com.google.mlkit.vision.common.internal.VisionCommonRegistrar"
-104-->[com.google.mlkit:vision-common:16.5.0] /home/prf-05/.gradle/caches/transforms-2/files-2.1/308f873d2867f6686c28a2b8494be24b/jetified-vision-common-16.5.0/AndroidManifest.xml:13:17-124
+104-->[com.google.mlkit:vision-common:16.5.0] /home/adriell/.gradle/caches/transforms-2/files-2.1/308f873d2867f6686c28a2b8494be24b/jetified-vision-common-16.5.0/AndroidManifest.xml:13:17-124
 105                android:value="com.google.firebase.components.ComponentRegistrar" />
-105-->[com.google.mlkit:vision-common:16.5.0] /home/prf-05/.gradle/caches/transforms-2/files-2.1/308f873d2867f6686c28a2b8494be24b/jetified-vision-common-16.5.0/AndroidManifest.xml:14:17-82
+105-->[com.google.mlkit:vision-common:16.5.0] /home/adriell/.gradle/caches/transforms-2/files-2.1/308f873d2867f6686c28a2b8494be24b/jetified-vision-common-16.5.0/AndroidManifest.xml:14:17-82
 106            <meta-data
-106-->[com.google.mlkit:common:17.2.0] /home/prf-05/.gradle/caches/transforms-2/files-2.1/711d3bc503cc6e63d0921dac4cca3c30/jetified-common-17.2.0/AndroidManifest.xml:20:13-22:85
+106-->[com.google.mlkit:common:17.2.0] /home/adriell/.gradle/caches/transforms-2/files-2.1/711d3bc503cc6e63d0921dac4cca3c30/jetified-common-17.2.0/AndroidManifest.xml:20:13-22:85
 107                android:name="com.google.firebase.components:com.google.mlkit.common.internal.CommonComponentRegistrar"
-107-->[com.google.mlkit:common:17.2.0] /home/prf-05/.gradle/caches/transforms-2/files-2.1/711d3bc503cc6e63d0921dac4cca3c30/jetified-common-17.2.0/AndroidManifest.xml:21:17-120
+107-->[com.google.mlkit:common:17.2.0] /home/adriell/.gradle/caches/transforms-2/files-2.1/711d3bc503cc6e63d0921dac4cca3c30/jetified-common-17.2.0/AndroidManifest.xml:21:17-120
 108                android:value="com.google.firebase.components.ComponentRegistrar" />
-108-->[com.google.mlkit:common:17.2.0] /home/prf-05/.gradle/caches/transforms-2/files-2.1/711d3bc503cc6e63d0921dac4cca3c30/jetified-common-17.2.0/AndroidManifest.xml:22:17-82
+108-->[com.google.mlkit:common:17.2.0] /home/adriell/.gradle/caches/transforms-2/files-2.1/711d3bc503cc6e63d0921dac4cca3c30/jetified-common-17.2.0/AndroidManifest.xml:22:17-82
 109        </service>
 110
 111        <provider
-111-->[com.google.mlkit:common:17.2.0] /home/prf-05/.gradle/caches/transforms-2/files-2.1/711d3bc503cc6e63d0921dac4cca3c30/jetified-common-17.2.0/AndroidManifest.xml:9:9-13:38
+111-->[com.google.mlkit:common:17.2.0] /home/adriell/.gradle/caches/transforms-2/files-2.1/711d3bc503cc6e63d0921dac4cca3c30/jetified-common-17.2.0/AndroidManifest.xml:9:9-13:38
 112            android:name="com.google.mlkit.common.internal.MlKitInitProvider"
-112-->[com.google.mlkit:common:17.2.0] /home/prf-05/.gradle/caches/transforms-2/files-2.1/711d3bc503cc6e63d0921dac4cca3c30/jetified-common-17.2.0/AndroidManifest.xml:10:13-78
+112-->[com.google.mlkit:common:17.2.0] /home/adriell/.gradle/caches/transforms-2/files-2.1/711d3bc503cc6e63d0921dac4cca3c30/jetified-common-17.2.0/AndroidManifest.xml:10:13-78
 113            android:authorities="com.example.loja_virtual.mlkitinitprovider"
-113-->[com.google.mlkit:common:17.2.0] /home/prf-05/.gradle/caches/transforms-2/files-2.1/711d3bc503cc6e63d0921dac4cca3c30/jetified-common-17.2.0/AndroidManifest.xml:11:13-69
+113-->[com.google.mlkit:common:17.2.0] /home/adriell/.gradle/caches/transforms-2/files-2.1/711d3bc503cc6e63d0921dac4cca3c30/jetified-common-17.2.0/AndroidManifest.xml:11:13-69
 114            android:exported="false"
-114-->[com.google.mlkit:common:17.2.0] /home/prf-05/.gradle/caches/transforms-2/files-2.1/711d3bc503cc6e63d0921dac4cca3c30/jetified-common-17.2.0/AndroidManifest.xml:12:13-37
+114-->[com.google.mlkit:common:17.2.0] /home/adriell/.gradle/caches/transforms-2/files-2.1/711d3bc503cc6e63d0921dac4cca3c30/jetified-common-17.2.0/AndroidManifest.xml:12:13-37
 115            android:initOrder="99" />
-115-->[com.google.mlkit:common:17.2.0] /home/prf-05/.gradle/caches/transforms-2/files-2.1/711d3bc503cc6e63d0921dac4cca3c30/jetified-common-17.2.0/AndroidManifest.xml:13:13-35
+115-->[com.google.mlkit:common:17.2.0] /home/adriell/.gradle/caches/transforms-2/files-2.1/711d3bc503cc6e63d0921dac4cca3c30/jetified-common-17.2.0/AndroidManifest.xml:13:13-35
 116
 117        <service
-117-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /home/prf-05/.gradle/caches/transforms-2/files-2.1/1f00e0dfee3a11aa3f6f3b29dbcccafd/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:29:9-35:19
+117-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /home/adriell/.gradle/caches/transforms-2/files-2.1/1f00e0dfee3a11aa3f6f3b29dbcccafd/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:29:9-35:19
 118            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
-118-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /home/prf-05/.gradle/caches/transforms-2/files-2.1/1f00e0dfee3a11aa3f6f3b29dbcccafd/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:30:13-103
+118-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /home/adriell/.gradle/caches/transforms-2/files-2.1/1f00e0dfee3a11aa3f6f3b29dbcccafd/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:30:13-103
 119            android:exported="false" >
-119-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /home/prf-05/.gradle/caches/transforms-2/files-2.1/1f00e0dfee3a11aa3f6f3b29dbcccafd/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:31:13-37
+119-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /home/adriell/.gradle/caches/transforms-2/files-2.1/1f00e0dfee3a11aa3f6f3b29dbcccafd/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:31:13-37
 120            <meta-data
-120-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /home/prf-05/.gradle/caches/transforms-2/files-2.1/1f00e0dfee3a11aa3f6f3b29dbcccafd/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:32:13-34:39
+120-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /home/adriell/.gradle/caches/transforms-2/files-2.1/1f00e0dfee3a11aa3f6f3b29dbcccafd/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:32:13-34:39
 121                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
-121-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /home/prf-05/.gradle/caches/transforms-2/files-2.1/1f00e0dfee3a11aa3f6f3b29dbcccafd/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:33:17-94
+121-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /home/adriell/.gradle/caches/transforms-2/files-2.1/1f00e0dfee3a11aa3f6f3b29dbcccafd/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:33:17-94
 122                android:value="cct" />
-122-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /home/prf-05/.gradle/caches/transforms-2/files-2.1/1f00e0dfee3a11aa3f6f3b29dbcccafd/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:34:17-36
+122-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /home/adriell/.gradle/caches/transforms-2/files-2.1/1f00e0dfee3a11aa3f6f3b29dbcccafd/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:34:17-36
 123        </service>
 124
 125        <activity
-125-->[com.google.android.gms:play-services-base:17.6.0] /home/prf-05/.gradle/caches/transforms-2/files-2.1/02597e8a2e90d6964d0113c9c114d800/jetified-play-services-base-17.6.0/AndroidManifest.xml:23:9-26:75
+125-->[com.google.android.gms:play-services-base:17.6.0] /home/adriell/.gradle/caches/transforms-2/files-2.1/02597e8a2e90d6964d0113c9c114d800/jetified-play-services-base-17.6.0/AndroidManifest.xml:23:9-26:75
 126            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-126-->[com.google.android.gms:play-services-base:17.6.0] /home/prf-05/.gradle/caches/transforms-2/files-2.1/02597e8a2e90d6964d0113c9c114d800/jetified-play-services-base-17.6.0/AndroidManifest.xml:24:13-79
+126-->[com.google.android.gms:play-services-base:17.6.0] /home/adriell/.gradle/caches/transforms-2/files-2.1/02597e8a2e90d6964d0113c9c114d800/jetified-play-services-base-17.6.0/AndroidManifest.xml:24:13-79
 127            android:exported="false"
-127-->[com.google.android.gms:play-services-base:17.6.0] /home/prf-05/.gradle/caches/transforms-2/files-2.1/02597e8a2e90d6964d0113c9c114d800/jetified-play-services-base-17.6.0/AndroidManifest.xml:25:13-37
+127-->[com.google.android.gms:play-services-base:17.6.0] /home/adriell/.gradle/caches/transforms-2/files-2.1/02597e8a2e90d6964d0113c9c114d800/jetified-play-services-base-17.6.0/AndroidManifest.xml:25:13-37
 128            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-128-->[com.google.android.gms:play-services-base:17.6.0] /home/prf-05/.gradle/caches/transforms-2/files-2.1/02597e8a2e90d6964d0113c9c114d800/jetified-play-services-base-17.6.0/AndroidManifest.xml:26:13-72
+128-->[com.google.android.gms:play-services-base:17.6.0] /home/adriell/.gradle/caches/transforms-2/files-2.1/02597e8a2e90d6964d0113c9c114d800/jetified-play-services-base-17.6.0/AndroidManifest.xml:26:13-72
 129
 130        <meta-data
-130-->[com.google.android.gms:play-services-basement:17.6.0] /home/prf-05/.gradle/caches/transforms-2/files-2.1/3b48171d6c6f35cc80dbdc0ca763e081/jetified-play-services-basement-17.6.0/AndroidManifest.xml:23:9-25:69
+130-->[com.google.android.gms:play-services-basement:17.6.0] /home/adriell/.gradle/caches/transforms-2/files-2.1/3b48171d6c6f35cc80dbdc0ca763e081/jetified-play-services-basement-17.6.0/AndroidManifest.xml:23:9-25:69
 131            android:name="com.google.android.gms.version"
-131-->[com.google.android.gms:play-services-basement:17.6.0] /home/prf-05/.gradle/caches/transforms-2/files-2.1/3b48171d6c6f35cc80dbdc0ca763e081/jetified-play-services-basement-17.6.0/AndroidManifest.xml:24:13-58
+131-->[com.google.android.gms:play-services-basement:17.6.0] /home/adriell/.gradle/caches/transforms-2/files-2.1/3b48171d6c6f35cc80dbdc0ca763e081/jetified-play-services-basement-17.6.0/AndroidManifest.xml:24:13-58
 132            android:value="@integer/google_play_services_version" />
-132-->[com.google.android.gms:play-services-basement:17.6.0] /home/prf-05/.gradle/caches/transforms-2/files-2.1/3b48171d6c6f35cc80dbdc0ca763e081/jetified-play-services-basement-17.6.0/AndroidManifest.xml:25:13-66
+132-->[com.google.android.gms:play-services-basement:17.6.0] /home/adriell/.gradle/caches/transforms-2/files-2.1/3b48171d6c6f35cc80dbdc0ca763e081/jetified-play-services-basement-17.6.0/AndroidManifest.xml:25:13-66
 133
 134        <service
-134-->[com.google.android.datatransport:transport-runtime:2.2.6] /home/prf-05/.gradle/caches/transforms-2/files-2.1/035c156c4767bc75e1145128f7eeef05/jetified-transport-runtime-2.2.6/AndroidManifest.xml:26:9-30:19
+134-->[com.google.android.datatransport:transport-runtime:2.2.6] /home/adriell/.gradle/caches/transforms-2/files-2.1/035c156c4767bc75e1145128f7eeef05/jetified-transport-runtime-2.2.6/AndroidManifest.xml:26:9-30:19
 135            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
-135-->[com.google.android.datatransport:transport-runtime:2.2.6] /home/prf-05/.gradle/caches/transforms-2/files-2.1/035c156c4767bc75e1145128f7eeef05/jetified-transport-runtime-2.2.6/AndroidManifest.xml:27:13-117
+135-->[com.google.android.datatransport:transport-runtime:2.2.6] /home/adriell/.gradle/caches/transforms-2/files-2.1/035c156c4767bc75e1145128f7eeef05/jetified-transport-runtime-2.2.6/AndroidManifest.xml:27:13-117
 136            android:exported="false"
-136-->[com.google.android.datatransport:transport-runtime:2.2.6] /home/prf-05/.gradle/caches/transforms-2/files-2.1/035c156c4767bc75e1145128f7eeef05/jetified-transport-runtime-2.2.6/AndroidManifest.xml:28:13-37
+136-->[com.google.android.datatransport:transport-runtime:2.2.6] /home/adriell/.gradle/caches/transforms-2/files-2.1/035c156c4767bc75e1145128f7eeef05/jetified-transport-runtime-2.2.6/AndroidManifest.xml:28:13-37
 137            android:permission="android.permission.BIND_JOB_SERVICE" >
-137-->[com.google.android.datatransport:transport-runtime:2.2.6] /home/prf-05/.gradle/caches/transforms-2/files-2.1/035c156c4767bc75e1145128f7eeef05/jetified-transport-runtime-2.2.6/AndroidManifest.xml:29:13-69
+137-->[com.google.android.datatransport:transport-runtime:2.2.6] /home/adriell/.gradle/caches/transforms-2/files-2.1/035c156c4767bc75e1145128f7eeef05/jetified-transport-runtime-2.2.6/AndroidManifest.xml:29:13-69
 138        </service>
 139
 140        <receiver
-140-->[com.google.android.datatransport:transport-runtime:2.2.6] /home/prf-05/.gradle/caches/transforms-2/files-2.1/035c156c4767bc75e1145128f7eeef05/jetified-transport-runtime-2.2.6/AndroidManifest.xml:32:9-34:40
+140-->[com.google.android.datatransport:transport-runtime:2.2.6] /home/adriell/.gradle/caches/transforms-2/files-2.1/035c156c4767bc75e1145128f7eeef05/jetified-transport-runtime-2.2.6/AndroidManifest.xml:32:9-34:40
 141            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
-141-->[com.google.android.datatransport:transport-runtime:2.2.6] /home/prf-05/.gradle/caches/transforms-2/files-2.1/035c156c4767bc75e1145128f7eeef05/jetified-transport-runtime-2.2.6/AndroidManifest.xml:33:13-132
+141-->[com.google.android.datatransport:transport-runtime:2.2.6] /home/adriell/.gradle/caches/transforms-2/files-2.1/035c156c4767bc75e1145128f7eeef05/jetified-transport-runtime-2.2.6/AndroidManifest.xml:33:13-132
 142            android:exported="false" />
-142-->[com.google.android.datatransport:transport-runtime:2.2.6] /home/prf-05/.gradle/caches/transforms-2/files-2.1/035c156c4767bc75e1145128f7eeef05/jetified-transport-runtime-2.2.6/AndroidManifest.xml:34:13-37
+142-->[com.google.android.datatransport:transport-runtime:2.2.6] /home/adriell/.gradle/caches/transforms-2/files-2.1/035c156c4767bc75e1145128f7eeef05/jetified-transport-runtime-2.2.6/AndroidManifest.xml:34:13-37
 143
 144        <provider
-144-->[androidx.lifecycle:lifecycle-process:2.1.0] /home/prf-05/.gradle/caches/transforms-2/files-2.1/e53e18efd37696db5ae996ccf103544a/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:23:9-27:43
+144-->[androidx.lifecycle:lifecycle-process:2.1.0] /home/adriell/.gradle/caches/transforms-2/files-2.1/e53e18efd37696db5ae996ccf103544a/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:23:9-27:43
 145            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
-145-->[androidx.lifecycle:lifecycle-process:2.1.0] /home/prf-05/.gradle/caches/transforms-2/files-2.1/e53e18efd37696db5ae996ccf103544a/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:24:13-79
+145-->[androidx.lifecycle:lifecycle-process:2.1.0] /home/adriell/.gradle/caches/transforms-2/files-2.1/e53e18efd37696db5ae996ccf103544a/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:24:13-79
 146            android:authorities="com.example.loja_virtual.lifecycle-process"
-146-->[androidx.lifecycle:lifecycle-process:2.1.0] /home/prf-05/.gradle/caches/transforms-2/files-2.1/e53e18efd37696db5ae996ccf103544a/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:25:13-69
+146-->[androidx.lifecycle:lifecycle-process:2.1.0] /home/adriell/.gradle/caches/transforms-2/files-2.1/e53e18efd37696db5ae996ccf103544a/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:25:13-69
 147            android:exported="false"
-147-->[androidx.lifecycle:lifecycle-process:2.1.0] /home/prf-05/.gradle/caches/transforms-2/files-2.1/e53e18efd37696db5ae996ccf103544a/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:26:13-37
+147-->[androidx.lifecycle:lifecycle-process:2.1.0] /home/adriell/.gradle/caches/transforms-2/files-2.1/e53e18efd37696db5ae996ccf103544a/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:26:13-37
 148            android:multiprocess="true" />
-148-->[androidx.lifecycle:lifecycle-process:2.1.0] /home/prf-05/.gradle/caches/transforms-2/files-2.1/e53e18efd37696db5ae996ccf103544a/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:27:13-40
+148-->[androidx.lifecycle:lifecycle-process:2.1.0] /home/adriell/.gradle/caches/transforms-2/files-2.1/e53e18efd37696db5ae996ccf103544a/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:27:13-40
 149    </application>
 150
 151</manifest>

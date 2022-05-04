@@ -3,10 +3,10 @@
 3    package="com.tfliteflutter.tflite_flutter_helper" >
 4
 5    <uses-sdk android:minSdkVersion="16" />
-5-->/home/prf-05/flutter/.pub-cache/hosted/pub.dartlang.org/tflite_flutter_helper-0.3.1/android/src/main/AndroidManifest.xml
+5-->/home/adriell/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/tflite_flutter_helper-0.3.1/android/src/main/AndroidManifest.xml
 6
 7    <uses-permission android:name="android.permission.RECORD_AUDIO" />
-7-->/home/prf-05/flutter/.pub-cache/hosted/pub.dartlang.org/tflite_flutter_helper-0.3.1/android/src/main/AndroidManifest.xml:3:2-68
-7-->/home/prf-05/flutter/.pub-cache/hosted/pub.dartlang.org/tflite_flutter_helper-0.3.1/android/src/main/AndroidManifest.xml:3:19-65
+7-->/home/adriell/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/tflite_flutter_helper-0.3.1/android/src/main/AndroidManifest.xml:3:2-68
+7-->/home/adriell/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/tflite_flutter_helper-0.3.1/android/src/main/AndroidManifest.xml:3:19-65
 8
 9</manifest>

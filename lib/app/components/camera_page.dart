@@ -1,5 +1,6 @@
 // import 'dart:html';
 import 'dart:io';
+import 'package:face_detect_firebase/app/components/showImage.dart';
 import 'package:flutter/material.dart';
 import 'package:camera/camera.dart';
 import 'package:flutter_modular/flutter_modular.dart';
@@ -85,7 +86,7 @@ class _CameraAppState extends State<CameraApp> {
                       Navigator.push(
                           context,
                           MaterialPageRoute(
-                              builder: (context) => FaceDetection(file)));
+                              builder: (context) => ShowAlteredImage(file)));
                       return null;
                     });
                     setState(() {});
