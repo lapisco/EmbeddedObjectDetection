@@ -16,11 +16,10 @@ class _ShowAlteredImageState extends State<ShowAlteredImage> {
   @override
   Widget build(BuildContext context) {
     GallerySaver.saveImage(widget.image!.path, albumName: 'capturedPicture');
-    print('entrou aqui!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!');
 
     return Scaffold(
         appBar: AppBar(
-          title: const Text("Face Detection"),
+          title: const Text("Image Object Detection"),
         ),
         body: Center(
           child: FittedBox(

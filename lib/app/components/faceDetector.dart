@@ -1,10 +1,7 @@
 import 'dart:io';
 import 'dart:ui' as ui;
-import 'dart:math';
-import 'dart:typed_data';
 import 'package:camera/camera.dart';
 import 'package:face_detect_firebase/app/components/camera_page.dart';
-import 'package:face_detect_firebase/app/components/showImage.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
@@ -40,7 +37,7 @@ class _FaceDetectorHomeState extends State<FaceDetectorHome> {
         key: _scaffoldKey,
         appBar: AppBar(
           centerTitle: true,
-          title: const Text('Face Detection'),
+          title: const Text('Image Object Detection'),
         ),
         body: SingleChildScrollView(
             child: Column(

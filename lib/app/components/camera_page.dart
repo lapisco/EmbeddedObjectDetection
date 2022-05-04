@@ -81,6 +81,9 @@ class _CameraAppState extends State<CameraApp> {
 
                       File file = File(value.path);
 
+                      // GallerySaver.saveImage(file.path,
+                      // albumName: 'capturedPicture');
+
                       // print('capturado!!!!!!!!!!!!!!!!${(store.imagePicked)}');
 
                       Navigator.push(

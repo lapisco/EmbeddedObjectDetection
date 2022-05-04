@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/adriell/Documentos/PROJETOS/EmbeddedObjectDetection/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-zh/values-zh.xml",
+            "outputFile": "/home/prf-05/Música/EmbeddedObjectDetection/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-zh/values-zh.xml",
             "map": [
                 {
-                    "source": "/home/adriell/.gradle/caches/transforms-2/files-2.1/7604f85df9e8222addb10b6ea10f015e/jetified-ucrop-2.2.7/res/values-zh/values-zh.xml",
+                    "source": "/home/prf-05/.gradle/caches/transforms-2/files-2.1/7604f85df9e8222addb10b6ea10f015e/jetified-ucrop-2.2.7/res/values-zh/values-zh.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",
